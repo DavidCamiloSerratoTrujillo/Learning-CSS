@@ -1,14 +1,4 @@
-*{
-    background-color: honeydew;
-}
-
-#titulo{
+h1, h2, p, div{
     color: crimson;
     text-align: center;
-}
-.centrar_texto{
-    text-align: center;
-}
-.texto_grande{
-    font-size: large;
 }

@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+.punteado{
+    border-style: dotted;
+}
+.discontinuo{
+    border-style: dashed;
+}
+.solido{
+    border-style:solid;
+
+}
+.doble{
+    border: 5px double;
+}
+.surco{
+    border: 10px groove;
+}
+.cresta{
+    border: 10px ridge;
+}
+.recuadro{
+    border:10px inset;
+}
+.outset{
+    border:10px outset;
+}
+.sinborde{
+    border:10px none;
+}
+.mixto{
+    border-style: dotted solid dashed double;
+}
