@@ -1,7 +1,14 @@
+*{
+    background-color: honeydew;
+}
+
 #titulo{
     color: crimson;
     text-align: center;
 }
 .centrar_texto{
     text-align: center;
+}
+.texto_grande{
+    font-size: large;
 }
