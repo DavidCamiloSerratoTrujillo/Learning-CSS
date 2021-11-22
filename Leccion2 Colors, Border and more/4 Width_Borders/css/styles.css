@@ -1,5 +1,38 @@
-
 h1{
-    color:rgb(66, 143, 209); text-align: center; font-size: 50px;
+    text-align: center;
 }
-
+.punteado{
+    border-style: dotted;
+    border-width: 10px 5px 3px 2px;
+}
+.discontinuo{
+    border-style: dashed;
+    border-width: thin;/*Borde Delgado*/
+}
+.solido{
+    border-style:solid;
+    border-width: medium;/*Borde Mediano*/
+}
+.doble{
+    border: 5px double;
+    border-width: thick;/*Borde Grande*/
+}
+.surco{
+    border: groove;
+    border-width: 10px 5px 2px;
+}
+.cresta{
+    border: 10px ridge;
+}
+.recuadro{
+    border:10px inset;
+}
+.outset{
+    border:10px outset;
+}
+.sinborde{
+    border:10px none;
+}
+.mixto{
+    border-style: dotted solid dashed double;
+}
