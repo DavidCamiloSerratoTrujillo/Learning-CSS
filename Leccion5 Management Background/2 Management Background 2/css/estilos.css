@@ -7,7 +7,7 @@ body{
     background-position: right top;
     */
     background-attachment: fixed;
-    background: dodgerblue url("/img/fondo.png") no-repeat right top;
+    background: dodgerblue url("../img/fondo.png") no-repeat right top;
 }
 h1{
     text-align: center;
