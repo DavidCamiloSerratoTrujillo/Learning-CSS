@@ -1,8 +1,6 @@
-
 h1{
-    color:rgb(66, 143, 209);
-    text-align: center; 
-    font-size: 50px;
+    text-align: center;
+    color: #e63946;
 }
 .caja{
     padding: 10px;
@@ -11,7 +9,8 @@ h1{
     height: 50px;
     text-align: center;
     margin: 5px auto;
-    font-size: 15px;
+    font-size: 10px;
+    float: left;
 }
 .rojo{
     background-color: crimson;
@@ -19,4 +18,9 @@ h1{
 .rosa{
     background-color: deeppink;
 }
-
+.rgb{
+    background-color: rgb(131,56,236);
+}
+.rgba{
+    background-color: rgba(131, 56, 236, .5);
+}
